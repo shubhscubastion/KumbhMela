@@ -7,7 +7,7 @@ function App() {
     <div>
       <Header />
 
-      <ListofTents price="₹ 1010/-" />
+      <ListofTents price="₹ 1100/-" />
     </div>
   );
 }
